@@ -101,6 +101,9 @@ target/
 .python-version
 
 .env
+*.key
+*.pem
+*.secret
 .venv
 .idea
 .vscode
